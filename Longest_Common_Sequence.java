@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Longest_Common_Sequence{
+    //This algorithm finds the longest subsequence that is common to two strings. It is used in many applications, such as text comparison and DNA sequence analysis.
     public static void main(String[] args) {
     
         String name1 = "stone";
